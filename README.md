@@ -7,4 +7,5 @@ book-store-using-api/
 │   ├── index.html        # Frontend HTML
 │   ├── style.css         # Custom styles
 │   └── background.jpg    # Background image
-
+Sample output for the above Book manager
+![Image](https://github.com/user-attachments/assets/27c5f564-74a1-48de-977d-4b144c7d1d20)
