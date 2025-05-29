@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
 
 
 app.use(express.json());
-app.use(express.static('public')); // <-- serves index.html and CSS
+app.use(express.static('public')); 
 
 let books = [];
 
